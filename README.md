@@ -1,5 +1,5 @@
-# Larvae_Chionodraco
-D-loop sequences used in the paper "Biological traits and identification tools of early life stages of two sympatric species of __Chionodraco__ in the Ross Sea" (La Mesa et al., 2026, under review).
+# Larvae *Chionodraco*
+D-loop sequences used in the paper "Biological traits and identification tools of early life stages of two sympatric species of *Chionodraco* in the Ross Sea" (La Mesa et al., 2026, under review).
 
 This repository contains:
 - all the new sequences generated in this study from the larval samples (larval_Dloop.fasta);
